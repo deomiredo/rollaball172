@@ -15,4 +15,10 @@ Judul Game : The Lagend of Manook<br /><br />
 Genre      : Adventure<br /><br />
 Cara Main  : Gunakan Arrow button untuk menjalankan game<br /><br />
 
+Pemain akan berperan sebagai "Joni" seekor burung puyuh yang diutus sukunya yaitu suku Manook untuk mengumpulkan biji jagung, namun dalam perjalanannya mengumpulkan biji jagung dia tersesat ketika mencari jalan pulang. jadi bantu "Joni menemukan jalan pulang"<br />
 
+pada level 1 pemain akan di tempatkan pada latar hutan , disini pemain mengumpulkan biji jagung dan harus melewati hadangan serangga beracun serta menghindari jatuhan kacang yang dilempar tupai.<br />
+
+Pada level 2 pemain akan di tempatkan pada latar goa, disini pemain akan menghadapai rintangan berupa jatuhan stalaktik (batuan runcing), tombak yang muncul tak terduga dan runtuhan batuan harus dihindari untuk mencapai ke level berikutnya.<br />
+
+Pada level 3 pemain akan di tempatkan pada latar kuil, disini pemain akan menghadapai rintangan berupa tembakan meriam, tombak, dan landak berduri yang menghadang. level ini adalah level terakhir yang dicapai pemain untuk membantu "Joni" bertemu dengan suku Manooknya.<br />

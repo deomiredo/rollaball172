@@ -1,5 +1,5 @@
 # The Legend Of Manook
-untuk tugas personal pengantar game kelas I  (2019-172)
+untuk tugas besar pengantar game kelas I
 <br />
 # Kelas Pemrograman Game I<br /><br />
 
